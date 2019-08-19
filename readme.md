@@ -1,3 +1,3 @@
 
 The website is live at 
-https://build.himeshsiriwardana.now.sh
+https://the-fish-market-himeshsiriwardana.netlify.com
