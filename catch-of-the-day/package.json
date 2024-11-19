@@ -9,7 +9,7 @@
   "dependencies": {
     "@angular/cli": "^8.1.3",
     "autoprefixer-stylus": "0.14.0",
-    "firebase": "^5.7.0",
+    "firebase": "^10.9.0",
     "prop-types": "^15.6.0",
     "re-base": "4.0.0",
     "react": "^16.6.3",
